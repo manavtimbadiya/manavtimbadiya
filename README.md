@@ -1,24 +1,18 @@
 <h1 align="center"> Hey there, I'm Manav Timbadiya 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=manavtimbadiya&label=PROFILE+VIEWS">
 
-<h2><strong>Web Developer from India.</strong></h2>
-<h2>Undergrad at A.D. Patel Institute of Techonology.</h2>
+<h2><strong>Software Engineer at Verizon</strong></h2>
+<h2>Over the years, I’ve contributed to enterprise application development, API integration, workflow automation, cloud deployments, and performance optimization projects for organizations including Verizon, Comcast, and BT Group. I enjoy solving complex technical challenges, modernizing legacy systems, optimizing application performance, and developing solutions that streamline processes and improve operational efficiency.</h2>
 
-<h2>Would love to discuss on <strong>C, C++, HTML, CSS, Bootstrap, ReactJS.</strong></h2>
+<h2>Core Areas:
+• Full-Stack Web Development (React.js, Node.js, JavaScript, TypeScript)
+• Backend Engineering & REST API Development
+• Python Development & Automation Solutions
+• SQL, PostgreSQL, MySQL & MongoDB
+• Cloud Platforms (AWS & Microsoft Azure)
+• Docker, Kubernetes & Containerization
+• CI/CD Pipelines & DevOps Practices </h2>
 
-## 📊Github Stats
-
-  <br/>
-    <a href="https://github.com/manavtimbadiya/github-readme-stats"><img alt="Manav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manavtimbadiya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/manavtimbadiya/github-readme-stats"><img alt="Manav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavtimbadiya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-<br/>
-<br/>
-
-<a href="https://github.com/manavtimbadiya/github-readme-activity-graph"><img alt="Manav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manavtimbadiya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-<br/>
 
 ## Let's Connect!
 <p align="left">
